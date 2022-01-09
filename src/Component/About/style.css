@@ -1,0 +1,25 @@
+.about{
+    background-color:  	rgb(247, 171, 36);
+    width: 100vw;
+    height: 100vh;
+    padding: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    color: #eeeeee;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.line{
+    color: #eeeeee;
+    width: 50vw
+}
+.just-center{
+    text-align: center;
+    font-size: large;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

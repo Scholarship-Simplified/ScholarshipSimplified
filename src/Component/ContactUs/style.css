@@ -1,0 +1,72 @@
+.box2{
+    /*background-color:  	rgb(13, 75, 12);*/
+    background-image: url(./images/grad1.jpg);
+    background-size: cover;
+    width: 100vw;
+    margin: 0px;
+    height: 100vh;
+    padding: 20px;
+    color: #eeeeee;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    background-color:  	rgb(247, 171, 36);
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 12px 40px 0 rgba(0,0,0,0.19);
+    color: #eeeeee;
+    width: 40vw;
+    margin-top: 2%;
+    /* margin-right: auto;
+    margin-left: auto; */
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.line{
+    color: #eeeeee;
+    width: 50vw
+}
+.contact{
+    border: 2px whitesmoke double;
+    margin: 5%;
+    padding: 3%;
+}
+.contact_logo{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+.center_horizontal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputs{
+    margin: 2px;
+    width: 18vw;
+    height: 4vh;
+    border: 1px rgb(13, 75, 12) solid;
+    border-radius: 2px;
+}
+.submits{
+    margin: 2px;
+    width: 18vw;
+    height: 4vh;
+    background-color: rgb(13, 75, 12);
+    border: 0px;
+    border-radius: 2px;
+    color: #eeeeee;
+}
+.submits:hover{
+    background-color: #eeeeee;
+    color: rgb(13, 75, 12);;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

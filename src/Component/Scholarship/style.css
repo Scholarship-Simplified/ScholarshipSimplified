@@ -1,0 +1,100 @@
+.seg1{
+    background-image: url(./images/grad2.jpg);
+    height: 120vh;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+mark{
+    display: block;
+    width: 27vw;
+    height: 45vh;
+    background-color:gray;
+    color:white;
+    font-size: xx-large;
+    padding: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5%;
+    
+}
+.explore{
+    width: 150px;
+    height: 50px; 
+    font-size:x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(13, 75, 12);
+    border: 0px;
+    border-radius: 4px;
+    color: #eeeeee;
+    font-weight: bold;
+}
+.explore:hover{
+    background-color: transparent;
+    color: rgb(13, 75, 12);
+    font-weight: bold;
+}
+.seg2{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-color: rgb(13, 75, 12);
+    margin:0px;
+    padding-right:0px;
+    padding-left: 0px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    flex-direction: column;
+    }
+    .searchBar{
+    border-radius:6px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 12px 40px 0 rgba(0,0,0,0.19);
+    border: 1px black solid;
+    margin: 10px;
+    width:80vw;
+    padding:5px;
+    background-color: #eeeeee;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    }
+    select{
+    outline:0;
+    border: 1px solid black;
+    font-size:large;
+    width: 130px;
+    margin: 10px;
+    cursor: pointer;
+    height:40px;
+    padding: 5px;
+    }
+    .styleSubmit{
+    height:40px;
+    width:130px;
+    border:0px;
+    margin:10px;
+    background-color: rgb(13, 75, 12);
+    font-size:large;
+    color:#eeeeee;
+    padding:5px;
+    }
+    .styleSubmit:hover{
+    background-color:rgb(247, 171, 36);
+    color: rgb(13, 75, 12);
+    }
+    .list{
+        border-radius:6px;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 12px 40px 0 rgba(0,0,0,0.19);
+        border: 1px black solid;
+        margin: 10px;
+        width:80vw;
+        padding:10px;
+        background-color: #eeeeee;
+        display:flex;
+        align-items:center;
+        justify-content:left;
+        font-size: large;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }

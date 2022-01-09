@@ -1,0 +1,14 @@
+.list{
+    border-radius:6px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 12px 40px 0 rgba(0,0,0,0.19);
+    border: 1px black solid;
+    margin: 10px;
+    width:80vw;
+    padding:10px;
+    background-color: #eeeeee;
+    display:flex;
+    align-items:center;
+    justify-content:left;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
