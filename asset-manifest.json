@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ScholarshipSimplified/static/css/main.33ae8ef1.css",
+    "main.js": "/ScholarshipSimplified/static/js/main.c5712353.js",
+    "static/js/787.262f63c1.chunk.js": "/ScholarshipSimplified/static/js/787.262f63c1.chunk.js",
+    "static/media/grad2.jpg": "/ScholarshipSimplified/static/media/grad2.739525165026c2c3cae3.jpg",
+    "static/media/instagram.png": "/ScholarshipSimplified/static/media/instagram.0963b7a591227164566c.png",
+    "static/media/grad1.jpg": "/ScholarshipSimplified/static/media/grad1.323f7fec5ad13ea4d52a.jpg",
+    "static/media/logo.jpg": "/ScholarshipSimplified/static/media/logo.709c688e9d7e2b9b2b24.jpg",
+    "static/media/mail.png": "/ScholarshipSimplified/static/media/mail.d765005ce9d4caa3d69e.png",
+    "static/media/logo.svg": "/ScholarshipSimplified/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ScholarshipSimplified/index.html",
+    "main.33ae8ef1.css.map": "/ScholarshipSimplified/static/css/main.33ae8ef1.css.map",
+    "main.c5712353.js.map": "/ScholarshipSimplified/static/js/main.c5712353.js.map",
+    "787.262f63c1.chunk.js.map": "/ScholarshipSimplified/static/js/787.262f63c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ae8ef1.css",
+    "static/js/main.c5712353.js"
+  ]
+}
